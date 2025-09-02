@@ -1,0 +1,3193 @@
+{
+  "cleaned_text": "MercerMarsh\nBenefits\nMERCER MARSH BENEFITS (MMB) BENEFITS ELECT PROGRAM\nGMR POLICY SCHEDULE\nPOLICY INFORMATION\nPolicy No\n25800\nPlan\nGroup Maternity Insurance (GMR)\nAreas of Coverage\nWorldwide\nPolicyholder\nABC PTE. LTD.\nPeriod Of Insurance\n01 Apr 2025 (Commencement Date) to 31 Mar 2026 (Expiry Date)\nType of Administration\nHead Count Basis\nCurrency\nSingapore Dollars\nCountry of Residence\nSingapore\nWaiting Period\n9 Months\nInsured Persons\nAll eligible persons enrolled under the GMR Policy on compulsory basis\nBenefits\nUpon receipt and approval of the Insured Person's claim within the Period of Insurance,\nthe Benefits as specified in the GMR Policy Schedule shall be payable.\nClassification of Plan\nPlan A All Female Employees\nANNUALI PREMIUM PER INSUREDI PERSON (SGD)\nAGE(FROM)\nAGE(TO)\nPlan A\n16\n51\nS$ 823.00\nAN Premiums payable are subject to the Goods and Services Tax (GST). The above tabulated premium rates arel before GST, which\nmustl be paidi in addition to the premium before the insurance cover will be effected.\nThis GMR Policy Schedule forms part of Your GMR Policy. We agree to pay the Benefits set out here during the Period of\nInsurance, subject to Yourp payment oft the Premiums and proof being furnished to Our satisfaction that such Benefits are payable.\nGroup Policy Administration Team\nIssue Date: 01 April 2025\nThis is computer-generated. No signature is required.\nMercerMarsh\nBenefits\nSCHEDULE OF GROUP MATERNITY INSURANCE BENEFITS\nSCHEDULE OF BENEFITS (SGD)\nBENEFIT\nPlan A\n(Inclusive of Room & Board, Per Delivery)\n1) NORMALI VAGINAL DELIVERY\n$6,000\n2) CAESAREAN I ABDOMINAL DELIVERY\n$7,000\n3) MISCARRIAGE\n$3,000\nNOTES: 1. PTE shall refer to Private Hospitals.\n2. Government Restructured Hospitals (GRH) and Community Hospitals shall refer to all institutions defined as such by the\nMinistry of Health in Singapore.",
+  "sentences": [
+    "MercerMarsh\nBenefits\nMERCER MARSH BENEFITS (MMB) BENEFITS ELECT PROGRAM\nGMR POLICY SCHEDULE\nPOLICY INFORMATION\nPolicy No\n25800\nPlan\nGroup Maternity Insurance (GMR)\nAreas of Coverage\nWorldwide\nPolicyholder\nABC PTE.",
+    "LTD.\n",
+    "Period Of Insurance\n01 Apr 2025 (Commencement Date) to 31 Mar 2026 (Expiry Date)\nType of Administration\nHead Count Basis\nCurrency\nSingapore Dollars\nCountry of Residence\nSingapore\nWaiting Period\n9 Months\nInsured Persons\nAll eligible persons enrolled under the GMR Policy on compulsory basis\nBenefits\nUpon receipt and approval of the Insured Person's claim within the Period of Insurance,\nthe Benefits as specified in the GMR Policy Schedule shall be payable.\n",
+    "Classification of Plan\nPlan A All Female Employees\nANNUALI PREMIUM PER INSUREDI PERSON (SGD)\nAGE(FROM)\nAGE(TO)\n",
+    "Plan A\n16\n51\nS$ 823.00\nAN Premiums payable are subject to the Goods and Services Tax (GST).",
+    "The above tabulated premium rates arel before GST, which\nmustl be paidi in addition to the premium before the insurance cover will be effected.\n",
+    "This GMR Policy Schedule forms part of Your GMR Policy.",
+    "We agree to pay the Benefits set out here during the Period of\nInsurance, subject to Yourp payment oft the Premiums and proof being furnished to Our satisfaction that such Benefits are payable.\n",
+    "Group Policy Administration Team\nIssue Date: 01 April 2025\n",
+    "This is computer-generated.",
+    "No signature is required.\n",
+    "MercerMarsh\nBenefits\nSCHEDULE OF GROUP MATERNITY INSURANCE BENEFITS\nSCHEDULE OF BENEFITS (SGD)\nBENEFIT\nPlan A\n(Inclusive of Room & Board, Per Delivery)\n1) NORMALI VAGINAL DELIVERY\n$6,000\n2) CAESAREAN I ABDOMINAL DELIVERY\n$7,000\n3) MISCARRIAGE\n$3,000\nNOTES: 1. PTE shall refer to Private Hospitals.\n",
+    "2. Government Restructured Hospitals (GRH) and Community Hospitals shall refer to all institutions defined as such by the\nMinistry of Health in Singapore."
+  ],
+  "tokens": [
+    {
+      "text": "MercerMarsh",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Benefits",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "MERCER",
+      "pos": "PROPN"
+    },
+    {
+      "text": "MARSH",
+      "pos": "PROPN"
+    },
+    {
+      "text": "BENEFITS",
+      "pos": "PROPN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "MMB",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "BENEFITS",
+      "pos": "PROPN"
+    },
+    {
+      "text": "ELECT",
+      "pos": "PROPN"
+    },
+    {
+      "text": "PROGRAM",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": "POLICY",
+      "pos": "PROPN"
+    },
+    {
+      "text": "SCHEDULE",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "POLICY",
+      "pos": "PROPN"
+    },
+    {
+      "text": "INFORMATION",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Policy",
+      "pos": "PROPN"
+    },
+    {
+      "text": "No",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "25800",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Plan",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Group",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Maternity",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Insurance",
+      "pos": "PROPN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Areas",
+      "pos": "NOUN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Coverage",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Worldwide",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Policyholder",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "ABC",
+      "pos": "PROPN"
+    },
+    {
+      "text": "PTE",
+      "pos": "PROPN"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "LTD",
+      "pos": "PROPN"
+    },
+    {
+      "text": ".",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Period",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Insurance",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "01",
+      "pos": "NUM"
+    },
+    {
+      "text": "Apr",
+      "pos": "PROPN"
+    },
+    {
+      "text": "2025",
+      "pos": "NUM"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "Commencement",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Date",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "31",
+      "pos": "NUM"
+    },
+    {
+      "text": "Mar",
+      "pos": "PROPN"
+    },
+    {
+      "text": "2026",
+      "pos": "NUM"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "Expiry",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Date",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Type",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Administration",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Head",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Count",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Basis",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Currency",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Singapore",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Dollars",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Country",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Residence",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Singapore",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Waiting",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Period",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "9",
+      "pos": "NUM"
+    },
+    {
+      "text": "Months",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Insured",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Persons",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "All",
+      "pos": "DET"
+    },
+    {
+      "text": "eligible",
+      "pos": "ADJ"
+    },
+    {
+      "text": "persons",
+      "pos": "NOUN"
+    },
+    {
+      "text": "enrolled",
+      "pos": "VERB"
+    },
+    {
+      "text": "under",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Policy",
+      "pos": "PROPN"
+    },
+    {
+      "text": "on",
+      "pos": "ADP"
+    },
+    {
+      "text": "compulsory",
+      "pos": "ADJ"
+    },
+    {
+      "text": "basis",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Benefits",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Upon",
+      "pos": "SCONJ"
+    },
+    {
+      "text": "receipt",
+      "pos": "NOUN"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ"
+    },
+    {
+      "text": "approval",
+      "pos": "NOUN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Insured",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Person",
+      "pos": "PROPN"
+    },
+    {
+      "text": "'s",
+      "pos": "PART"
+    },
+    {
+      "text": "claim",
+      "pos": "NOUN"
+    },
+    {
+      "text": "within",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Period",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Insurance",
+      "pos": "PROPN"
+    },
+    {
+      "text": ",",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Benefits",
+      "pos": "NOUN"
+    },
+    {
+      "text": "as",
+      "pos": "SCONJ"
+    },
+    {
+      "text": "specified",
+      "pos": "VERB"
+    },
+    {
+      "text": "in",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Policy",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Schedule",
+      "pos": "PROPN"
+    },
+    {
+      "text": "shall",
+      "pos": "AUX"
+    },
+    {
+      "text": "be",
+      "pos": "AUX"
+    },
+    {
+      "text": "payable",
+      "pos": "ADJ"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Classification",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Plan",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Plan",
+      "pos": "NOUN"
+    },
+    {
+      "text": "A",
+      "pos": "NOUN"
+    },
+    {
+      "text": "All",
+      "pos": "DET"
+    },
+    {
+      "text": "Female",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Employees",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "ANNUALI",
+      "pos": "PROPN"
+    },
+    {
+      "text": "PREMIUM",
+      "pos": "PROPN"
+    },
+    {
+      "text": "PER",
+      "pos": "ADP"
+    },
+    {
+      "text": "INSUREDI",
+      "pos": "PROPN"
+    },
+    {
+      "text": "PERSON",
+      "pos": "NOUN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "SGD",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "AGE(FROM",
+      "pos": "NUM"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "AGE(TO",
+      "pos": "NUM"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Plan",
+      "pos": "PROPN"
+    },
+    {
+      "text": "A",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "16",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "51",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "S$",
+      "pos": "NUM"
+    },
+    {
+      "text": "823.00",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "AN",
+      "pos": "DET"
+    },
+    {
+      "text": "Premiums",
+      "pos": "NOUN"
+    },
+    {
+      "text": "payable",
+      "pos": "ADJ"
+    },
+    {
+      "text": "are",
+      "pos": "AUX"
+    },
+    {
+      "text": "subject",
+      "pos": "ADJ"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Goods",
+      "pos": "PROPN"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ"
+    },
+    {
+      "text": "Services",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Tax",
+      "pos": "PROPN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "GST",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "The",
+      "pos": "DET"
+    },
+    {
+      "text": "above",
+      "pos": "ADJ"
+    },
+    {
+      "text": "tabulated",
+      "pos": "VERB"
+    },
+    {
+      "text": "premium",
+      "pos": "NOUN"
+    },
+    {
+      "text": "rates",
+      "pos": "NOUN"
+    },
+    {
+      "text": "arel",
+      "pos": "NOUN"
+    },
+    {
+      "text": "before",
+      "pos": "ADP"
+    },
+    {
+      "text": "GST",
+      "pos": "PROPN"
+    },
+    {
+      "text": ",",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "which",
+      "pos": "DET"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "mustl",
+      "pos": "NOUN"
+    },
+    {
+      "text": "be",
+      "pos": "AUX"
+    },
+    {
+      "text": "paidi",
+      "pos": "VERB"
+    },
+    {
+      "text": "in",
+      "pos": "ADP"
+    },
+    {
+      "text": "addition",
+      "pos": "NOUN"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "premium",
+      "pos": "NOUN"
+    },
+    {
+      "text": "before",
+      "pos": "SCONJ"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "insurance",
+      "pos": "NOUN"
+    },
+    {
+      "text": "cover",
+      "pos": "NOUN"
+    },
+    {
+      "text": "will",
+      "pos": "AUX"
+    },
+    {
+      "text": "be",
+      "pos": "AUX"
+    },
+    {
+      "text": "effected",
+      "pos": "VERB"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "This",
+      "pos": "DET"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Policy",
+      "pos": "NOUN"
+    },
+    {
+      "text": "Schedule",
+      "pos": "PROPN"
+    },
+    {
+      "text": "forms",
+      "pos": "VERB"
+    },
+    {
+      "text": "part",
+      "pos": "NOUN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Your",
+      "pos": "PRON"
+    },
+    {
+      "text": "GMR",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Policy",
+      "pos": "PROPN"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "We",
+      "pos": "PRON"
+    },
+    {
+      "text": "agree",
+      "pos": "VERB"
+    },
+    {
+      "text": "to",
+      "pos": "PART"
+    },
+    {
+      "text": "pay",
+      "pos": "VERB"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Benefits",
+      "pos": "NOUN"
+    },
+    {
+      "text": "set",
+      "pos": "VERB"
+    },
+    {
+      "text": "out",
+      "pos": "ADP"
+    },
+    {
+      "text": "here",
+      "pos": "ADV"
+    },
+    {
+      "text": "during",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Period",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Insurance",
+      "pos": "PROPN"
+    },
+    {
+      "text": ",",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "subject",
+      "pos": "ADJ"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "Yourp",
+      "pos": "PROPN"
+    },
+    {
+      "text": "payment",
+      "pos": "NOUN"
+    },
+    {
+      "text": "oft",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "Premiums",
+      "pos": "NOUN"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ"
+    },
+    {
+      "text": "proof",
+      "pos": "NOUN"
+    },
+    {
+      "text": "being",
+      "pos": "AUX"
+    },
+    {
+      "text": "furnished",
+      "pos": "VERB"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "Our",
+      "pos": "PRON"
+    },
+    {
+      "text": "satisfaction",
+      "pos": "NOUN"
+    },
+    {
+      "text": "that",
+      "pos": "SCONJ"
+    },
+    {
+      "text": "such",
+      "pos": "ADJ"
+    },
+    {
+      "text": "Benefits",
+      "pos": "NOUN"
+    },
+    {
+      "text": "are",
+      "pos": "AUX"
+    },
+    {
+      "text": "payable",
+      "pos": "ADJ"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Group",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Policy",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Administration",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Team",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Issue",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Date",
+      "pos": "NOUN"
+    },
+    {
+      "text": ":",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "01",
+      "pos": "NUM"
+    },
+    {
+      "text": "April",
+      "pos": "PROPN"
+    },
+    {
+      "text": "2025",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "This",
+      "pos": "PRON"
+    },
+    {
+      "text": "is",
+      "pos": "AUX"
+    },
+    {
+      "text": "computer",
+      "pos": "NOUN"
+    },
+    {
+      "text": "-",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "generated",
+      "pos": "VERB"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "No",
+      "pos": "DET"
+    },
+    {
+      "text": "signature",
+      "pos": "NOUN"
+    },
+    {
+      "text": "is",
+      "pos": "AUX"
+    },
+    {
+      "text": "required",
+      "pos": "VERB"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "MercerMarsh",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Benefits",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "SCHEDULE",
+      "pos": "NOUN"
+    },
+    {
+      "text": "OF",
+      "pos": "ADP"
+    },
+    {
+      "text": "GROUP",
+      "pos": "PROPN"
+    },
+    {
+      "text": "MATERNITY",
+      "pos": "PROPN"
+    },
+    {
+      "text": "INSURANCE",
+      "pos": "PROPN"
+    },
+    {
+      "text": "BENEFITS",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "SCHEDULE",
+      "pos": "NOUN"
+    },
+    {
+      "text": "OF",
+      "pos": "ADP"
+    },
+    {
+      "text": "BENEFITS",
+      "pos": "NOUN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "SGD",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "BENEFIT",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Plan",
+      "pos": "PROPN"
+    },
+    {
+      "text": "A",
+      "pos": "PROPN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "Inclusive",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Room",
+      "pos": "PROPN"
+    },
+    {
+      "text": "&",
+      "pos": "CCONJ"
+    },
+    {
+      "text": "Board",
+      "pos": "PROPN"
+    },
+    {
+      "text": ",",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "Per",
+      "pos": "ADP"
+    },
+    {
+      "text": "Delivery",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "1",
+      "pos": "X"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "NORMALI",
+      "pos": "VERB"
+    },
+    {
+      "text": "VAGINAL",
+      "pos": "ADJ"
+    },
+    {
+      "text": "DELIVERY",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "$",
+      "pos": "SYM"
+    },
+    {
+      "text": "6,000",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "2",
+      "pos": "NUM"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "CAESAREAN",
+      "pos": "PROPN"
+    },
+    {
+      "text": "I",
+      "pos": "PRON"
+    },
+    {
+      "text": "ABDOMINAL",
+      "pos": "PROPN"
+    },
+    {
+      "text": "DELIVERY",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "$",
+      "pos": "SYM"
+    },
+    {
+      "text": "7,000",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "3",
+      "pos": "NUM"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "MISCARRIAGE",
+      "pos": "NOUN"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "$",
+      "pos": "SYM"
+    },
+    {
+      "text": "3,000",
+      "pos": "NUM"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "NOTES",
+      "pos": "NOUN"
+    },
+    {
+      "text": ":",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "1",
+      "pos": "X"
+    },
+    {
+      "text": ".",
+      "pos": "X"
+    },
+    {
+      "text": "PTE",
+      "pos": "PROPN"
+    },
+    {
+      "text": "shall",
+      "pos": "AUX"
+    },
+    {
+      "text": "refer",
+      "pos": "VERB"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "Private",
+      "pos": "ADJ"
+    },
+    {
+      "text": "Hospitals",
+      "pos": "NOUN"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "2",
+      "pos": "X"
+    },
+    {
+      "text": ".",
+      "pos": "X"
+    },
+    {
+      "text": "Government",
+      "pos": "NOUN"
+    },
+    {
+      "text": "Restructured",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Hospitals",
+      "pos": "PROPN"
+    },
+    {
+      "text": "(",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "GRH",
+      "pos": "PROPN"
+    },
+    {
+      "text": ")",
+      "pos": "PUNCT"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ"
+    },
+    {
+      "text": "Community",
+      "pos": "PROPN"
+    },
+    {
+      "text": "Hospitals",
+      "pos": "PROPN"
+    },
+    {
+      "text": "shall",
+      "pos": "AUX"
+    },
+    {
+      "text": "refer",
+      "pos": "VERB"
+    },
+    {
+      "text": "to",
+      "pos": "ADP"
+    },
+    {
+      "text": "all",
+      "pos": "DET"
+    },
+    {
+      "text": "institutions",
+      "pos": "NOUN"
+    },
+    {
+      "text": "defined",
+      "pos": "VERB"
+    },
+    {
+      "text": "as",
+      "pos": "ADP"
+    },
+    {
+      "text": "such",
+      "pos": "ADJ"
+    },
+    {
+      "text": "by",
+      "pos": "ADP"
+    },
+    {
+      "text": "the",
+      "pos": "DET"
+    },
+    {
+      "text": "\n",
+      "pos": "SPACE"
+    },
+    {
+      "text": "Ministry",
+      "pos": "PROPN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP"
+    },
+    {
+      "text": "Health",
+      "pos": "PROPN"
+    },
+    {
+      "text": "in",
+      "pos": "ADP"
+    },
+    {
+      "text": "Singapore",
+      "pos": "PROPN"
+    },
+    {
+      "text": ".",
+      "pos": "PUNCT"
+    }
+  ],
+  "pos_tags": [
+    [
+      "MercerMarsh",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Benefits",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "MERCER",
+      "PROPN"
+    ],
+    [
+      "MARSH",
+      "PROPN"
+    ],
+    [
+      "BENEFITS",
+      "PROPN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "MMB",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "BENEFITS",
+      "PROPN"
+    ],
+    [
+      "ELECT",
+      "PROPN"
+    ],
+    [
+      "PROGRAM",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      "POLICY",
+      "PROPN"
+    ],
+    [
+      "SCHEDULE",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "POLICY",
+      "PROPN"
+    ],
+    [
+      "INFORMATION",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Policy",
+      "PROPN"
+    ],
+    [
+      "No",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "25800",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Plan",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Group",
+      "PROPN"
+    ],
+    [
+      "Maternity",
+      "PROPN"
+    ],
+    [
+      "Insurance",
+      "PROPN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Areas",
+      "NOUN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Coverage",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Worldwide",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Policyholder",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "ABC",
+      "PROPN"
+    ],
+    [
+      "PTE",
+      "PROPN"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "LTD",
+      "PROPN"
+    ],
+    [
+      ".",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Period",
+      "PROPN"
+    ],
+    [
+      "Of",
+      "ADP"
+    ],
+    [
+      "Insurance",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "01",
+      "NUM"
+    ],
+    [
+      "Apr",
+      "PROPN"
+    ],
+    [
+      "2025",
+      "NUM"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "Commencement",
+      "PROPN"
+    ],
+    [
+      "Date",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "31",
+      "NUM"
+    ],
+    [
+      "Mar",
+      "PROPN"
+    ],
+    [
+      "2026",
+      "NUM"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "Expiry",
+      "PROPN"
+    ],
+    [
+      "Date",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Type",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Administration",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Head",
+      "PROPN"
+    ],
+    [
+      "Count",
+      "PROPN"
+    ],
+    [
+      "Basis",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Currency",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Singapore",
+      "PROPN"
+    ],
+    [
+      "Dollars",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Country",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Residence",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Singapore",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Waiting",
+      "PROPN"
+    ],
+    [
+      "Period",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "9",
+      "NUM"
+    ],
+    [
+      "Months",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Insured",
+      "PROPN"
+    ],
+    [
+      "Persons",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "All",
+      "DET"
+    ],
+    [
+      "eligible",
+      "ADJ"
+    ],
+    [
+      "persons",
+      "NOUN"
+    ],
+    [
+      "enrolled",
+      "VERB"
+    ],
+    [
+      "under",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      "Policy",
+      "PROPN"
+    ],
+    [
+      "on",
+      "ADP"
+    ],
+    [
+      "compulsory",
+      "ADJ"
+    ],
+    [
+      "basis",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Benefits",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Upon",
+      "SCONJ"
+    ],
+    [
+      "receipt",
+      "NOUN"
+    ],
+    [
+      "and",
+      "CCONJ"
+    ],
+    [
+      "approval",
+      "NOUN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Insured",
+      "PROPN"
+    ],
+    [
+      "Person",
+      "PROPN"
+    ],
+    [
+      "'s",
+      "PART"
+    ],
+    [
+      "claim",
+      "NOUN"
+    ],
+    [
+      "within",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Period",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Insurance",
+      "PROPN"
+    ],
+    [
+      ",",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Benefits",
+      "NOUN"
+    ],
+    [
+      "as",
+      "SCONJ"
+    ],
+    [
+      "specified",
+      "VERB"
+    ],
+    [
+      "in",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      "Policy",
+      "PROPN"
+    ],
+    [
+      "Schedule",
+      "PROPN"
+    ],
+    [
+      "shall",
+      "AUX"
+    ],
+    [
+      "be",
+      "AUX"
+    ],
+    [
+      "payable",
+      "ADJ"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Classification",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Plan",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Plan",
+      "NOUN"
+    ],
+    [
+      "A",
+      "NOUN"
+    ],
+    [
+      "All",
+      "DET"
+    ],
+    [
+      "Female",
+      "PROPN"
+    ],
+    [
+      "Employees",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "ANNUALI",
+      "PROPN"
+    ],
+    [
+      "PREMIUM",
+      "PROPN"
+    ],
+    [
+      "PER",
+      "ADP"
+    ],
+    [
+      "INSUREDI",
+      "PROPN"
+    ],
+    [
+      "PERSON",
+      "NOUN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "SGD",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "AGE(FROM",
+      "NUM"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "AGE(TO",
+      "NUM"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Plan",
+      "PROPN"
+    ],
+    [
+      "A",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "16",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "51",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "S$",
+      "NUM"
+    ],
+    [
+      "823.00",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "AN",
+      "DET"
+    ],
+    [
+      "Premiums",
+      "NOUN"
+    ],
+    [
+      "payable",
+      "ADJ"
+    ],
+    [
+      "are",
+      "AUX"
+    ],
+    [
+      "subject",
+      "ADJ"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Goods",
+      "PROPN"
+    ],
+    [
+      "and",
+      "CCONJ"
+    ],
+    [
+      "Services",
+      "PROPN"
+    ],
+    [
+      "Tax",
+      "PROPN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "GST",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "The",
+      "DET"
+    ],
+    [
+      "above",
+      "ADJ"
+    ],
+    [
+      "tabulated",
+      "VERB"
+    ],
+    [
+      "premium",
+      "NOUN"
+    ],
+    [
+      "rates",
+      "NOUN"
+    ],
+    [
+      "arel",
+      "NOUN"
+    ],
+    [
+      "before",
+      "ADP"
+    ],
+    [
+      "GST",
+      "PROPN"
+    ],
+    [
+      ",",
+      "PUNCT"
+    ],
+    [
+      "which",
+      "DET"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "mustl",
+      "NOUN"
+    ],
+    [
+      "be",
+      "AUX"
+    ],
+    [
+      "paidi",
+      "VERB"
+    ],
+    [
+      "in",
+      "ADP"
+    ],
+    [
+      "addition",
+      "NOUN"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "premium",
+      "NOUN"
+    ],
+    [
+      "before",
+      "SCONJ"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "insurance",
+      "NOUN"
+    ],
+    [
+      "cover",
+      "NOUN"
+    ],
+    [
+      "will",
+      "AUX"
+    ],
+    [
+      "be",
+      "AUX"
+    ],
+    [
+      "effected",
+      "VERB"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "This",
+      "DET"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      "Policy",
+      "NOUN"
+    ],
+    [
+      "Schedule",
+      "PROPN"
+    ],
+    [
+      "forms",
+      "VERB"
+    ],
+    [
+      "part",
+      "NOUN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Your",
+      "PRON"
+    ],
+    [
+      "GMR",
+      "PROPN"
+    ],
+    [
+      "Policy",
+      "PROPN"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "We",
+      "PRON"
+    ],
+    [
+      "agree",
+      "VERB"
+    ],
+    [
+      "to",
+      "PART"
+    ],
+    [
+      "pay",
+      "VERB"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Benefits",
+      "NOUN"
+    ],
+    [
+      "set",
+      "VERB"
+    ],
+    [
+      "out",
+      "ADP"
+    ],
+    [
+      "here",
+      "ADV"
+    ],
+    [
+      "during",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Period",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Insurance",
+      "PROPN"
+    ],
+    [
+      ",",
+      "PUNCT"
+    ],
+    [
+      "subject",
+      "ADJ"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "Yourp",
+      "PROPN"
+    ],
+    [
+      "payment",
+      "NOUN"
+    ],
+    [
+      "oft",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "Premiums",
+      "NOUN"
+    ],
+    [
+      "and",
+      "CCONJ"
+    ],
+    [
+      "proof",
+      "NOUN"
+    ],
+    [
+      "being",
+      "AUX"
+    ],
+    [
+      "furnished",
+      "VERB"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "Our",
+      "PRON"
+    ],
+    [
+      "satisfaction",
+      "NOUN"
+    ],
+    [
+      "that",
+      "SCONJ"
+    ],
+    [
+      "such",
+      "ADJ"
+    ],
+    [
+      "Benefits",
+      "NOUN"
+    ],
+    [
+      "are",
+      "AUX"
+    ],
+    [
+      "payable",
+      "ADJ"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Group",
+      "PROPN"
+    ],
+    [
+      "Policy",
+      "PROPN"
+    ],
+    [
+      "Administration",
+      "PROPN"
+    ],
+    [
+      "Team",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Issue",
+      "PROPN"
+    ],
+    [
+      "Date",
+      "NOUN"
+    ],
+    [
+      ":",
+      "PUNCT"
+    ],
+    [
+      "01",
+      "NUM"
+    ],
+    [
+      "April",
+      "PROPN"
+    ],
+    [
+      "2025",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "This",
+      "PRON"
+    ],
+    [
+      "is",
+      "AUX"
+    ],
+    [
+      "computer",
+      "NOUN"
+    ],
+    [
+      "-",
+      "PUNCT"
+    ],
+    [
+      "generated",
+      "VERB"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "No",
+      "DET"
+    ],
+    [
+      "signature",
+      "NOUN"
+    ],
+    [
+      "is",
+      "AUX"
+    ],
+    [
+      "required",
+      "VERB"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "MercerMarsh",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Benefits",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "SCHEDULE",
+      "NOUN"
+    ],
+    [
+      "OF",
+      "ADP"
+    ],
+    [
+      "GROUP",
+      "PROPN"
+    ],
+    [
+      "MATERNITY",
+      "PROPN"
+    ],
+    [
+      "INSURANCE",
+      "PROPN"
+    ],
+    [
+      "BENEFITS",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "SCHEDULE",
+      "NOUN"
+    ],
+    [
+      "OF",
+      "ADP"
+    ],
+    [
+      "BENEFITS",
+      "NOUN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "SGD",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "BENEFIT",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Plan",
+      "PROPN"
+    ],
+    [
+      "A",
+      "PROPN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "Inclusive",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Room",
+      "PROPN"
+    ],
+    [
+      "&",
+      "CCONJ"
+    ],
+    [
+      "Board",
+      "PROPN"
+    ],
+    [
+      ",",
+      "PUNCT"
+    ],
+    [
+      "Per",
+      "ADP"
+    ],
+    [
+      "Delivery",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "1",
+      "X"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "NORMALI",
+      "VERB"
+    ],
+    [
+      "VAGINAL",
+      "ADJ"
+    ],
+    [
+      "DELIVERY",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "$",
+      "SYM"
+    ],
+    [
+      "6,000",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "2",
+      "NUM"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "CAESAREAN",
+      "PROPN"
+    ],
+    [
+      "I",
+      "PRON"
+    ],
+    [
+      "ABDOMINAL",
+      "PROPN"
+    ],
+    [
+      "DELIVERY",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "$",
+      "SYM"
+    ],
+    [
+      "7,000",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "3",
+      "NUM"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "MISCARRIAGE",
+      "NOUN"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "$",
+      "SYM"
+    ],
+    [
+      "3,000",
+      "NUM"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "NOTES",
+      "NOUN"
+    ],
+    [
+      ":",
+      "PUNCT"
+    ],
+    [
+      "1",
+      "X"
+    ],
+    [
+      ".",
+      "X"
+    ],
+    [
+      "PTE",
+      "PROPN"
+    ],
+    [
+      "shall",
+      "AUX"
+    ],
+    [
+      "refer",
+      "VERB"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "Private",
+      "ADJ"
+    ],
+    [
+      "Hospitals",
+      "NOUN"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "2",
+      "X"
+    ],
+    [
+      ".",
+      "X"
+    ],
+    [
+      "Government",
+      "NOUN"
+    ],
+    [
+      "Restructured",
+      "PROPN"
+    ],
+    [
+      "Hospitals",
+      "PROPN"
+    ],
+    [
+      "(",
+      "PUNCT"
+    ],
+    [
+      "GRH",
+      "PROPN"
+    ],
+    [
+      ")",
+      "PUNCT"
+    ],
+    [
+      "and",
+      "CCONJ"
+    ],
+    [
+      "Community",
+      "PROPN"
+    ],
+    [
+      "Hospitals",
+      "PROPN"
+    ],
+    [
+      "shall",
+      "AUX"
+    ],
+    [
+      "refer",
+      "VERB"
+    ],
+    [
+      "to",
+      "ADP"
+    ],
+    [
+      "all",
+      "DET"
+    ],
+    [
+      "institutions",
+      "NOUN"
+    ],
+    [
+      "defined",
+      "VERB"
+    ],
+    [
+      "as",
+      "ADP"
+    ],
+    [
+      "such",
+      "ADJ"
+    ],
+    [
+      "by",
+      "ADP"
+    ],
+    [
+      "the",
+      "DET"
+    ],
+    [
+      "\n",
+      "SPACE"
+    ],
+    [
+      "Ministry",
+      "PROPN"
+    ],
+    [
+      "of",
+      "ADP"
+    ],
+    [
+      "Health",
+      "PROPN"
+    ],
+    [
+      "in",
+      "ADP"
+    ],
+    [
+      "Singapore",
+      "PROPN"
+    ],
+    [
+      ".",
+      "PUNCT"
+    ]
+  ],
+  "oov_words": [],
+  "oov_corrections": {},
+  "sections": [
+    {
+      "title": "UNKNOWN",
+      "content": "MercerMarsh\nBenefits\nMERCER MARSH BENEFITS (MMB) BENEFITS ELECT PROGRAM\nGMR POLICY SCHEDULE\nPOLICY INFORMATION\nPolicy No\n25800\nPlan\nGroup Maternity Insurance (GMR)\nAreas of Coverage\nWorldwide\nPolicyholder\nABC PTE.\nLTD.\nPeriod Of Insurance\n01 Apr 2025 (Commencement Date) to 31 Mar 2026 (Expiry Date)\nType of Administration\nHead Count Basis\nCurrency\nSingapore Dollars\nCountry of Residence\nSingapore\nWaiting Period\n9 Months\nInsured Persons\nAll eligible persons enrolled under the GMR Policy on compulsory basis\nBenefits\nUpon receipt and approval of the Insured Person's claim within the Period of Insurance,\nthe Benefits as specified in the GMR Policy Schedule shall be payable.\nClassification of Plan\nPlan A All Female Employees\nANNUALI PREMIUM PER INSUREDI PERSON (SGD)\nAGE(FROM)\nAGE(TO)\nPlan A\n16\n51\nS$ 823.00\nAN Premiums payable are subject to the Goods and Services Tax (GST).\nThe above tabulated premium rates arel before GST, which\nmustl be paidi in addition to the premium before the insurance cover will be effected.\nThis GMR Policy Schedule forms part of Your GMR Policy.\nWe agree to pay the Benefits set out here during the Period of\nInsurance, subject to Yourp payment oft the Premiums and proof being furnished to Our satisfaction that such Benefits are payable.\nGroup Policy Administration Team\nIssue Date: 01 April 2025\nThis is computer-generated.\nNo signature is required.\nMercerMarsh\nBenefits\nSCHEDULE OF GROUP MATERNITY INSURANCE BENEFITS\nSCHEDULE OF BENEFITS (SGD)\nBENEFIT\nPlan A\n(Inclusive of Room & Board, Per Delivery)\n1) NORMALI VAGINAL DELIVERY\n$6,000\n2) CAESAREAN I ABDOMINAL DELIVERY\n$7,000\n3) MISCARRIAGE\n$3,000\nNOTES: 1. PTE shall refer to Private Hospitals.\n2. Government Restructured Hospitals (GRH) and Community Hospitals shall refer to all institutions defined as such by the\nMinistry of Health in Singapore."
+    }
+  ],
+  "key_value_fields": {
+    "Issue Date": "01 April 2025",
+    "NOTES": "1. PTE shall refer to Private Hospitals."
+  },
+  "extracted_fields": {
+    "Issue Date": "01 April 2025",
+    "NOTES": ""
+  },
+  "extracted_tables": [],
+  "bilstm_doc_classification": {
+    "class": 0,
+    "probabilities": [
+      [
+        0.5940350890159607,
+        0.4059649407863617
+      ]
+    ]
+  },
+  "bigru_doc_classification": {
+    "class": 0,
+    "probabilities": [
+      [
+        0.5809826850891113,
+        0.4190172851085663
+      ]
+    ]
+  }
+}
